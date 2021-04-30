@@ -1,0 +1,14 @@
+S:\Projektek\Encrypt-Decrypt\bin\Debug\netcoreapp3.1\Encrypt-Decrypt.exe
+S:\Projektek\Encrypt-Decrypt\bin\Debug\netcoreapp3.1\Encrypt-Decrypt.deps.json
+S:\Projektek\Encrypt-Decrypt\bin\Debug\netcoreapp3.1\Encrypt-Decrypt.runtimeconfig.json
+S:\Projektek\Encrypt-Decrypt\bin\Debug\netcoreapp3.1\Encrypt-Decrypt.runtimeconfig.dev.json
+S:\Projektek\Encrypt-Decrypt\bin\Debug\netcoreapp3.1\Encrypt-Decrypt.dll
+S:\Projektek\Encrypt-Decrypt\bin\Debug\netcoreapp3.1\Encrypt-Decrypt.pdb
+S:\Projektek\Encrypt-Decrypt\obj\Debug\netcoreapp3.1\Encrypt-Decrypt.csprojAssemblyReference.cache
+S:\Projektek\Encrypt-Decrypt\obj\Debug\netcoreapp3.1\Encrypt-Decrypt.AssemblyInfoInputs.cache
+S:\Projektek\Encrypt-Decrypt\obj\Debug\netcoreapp3.1\Encrypt-Decrypt.AssemblyInfo.cs
+S:\Projektek\Encrypt-Decrypt\obj\Debug\netcoreapp3.1\Encrypt-Decrypt.csproj.CoreCompileInputs.cache
+S:\Projektek\Encrypt-Decrypt\obj\Debug\netcoreapp3.1\Encrypt-Decrypt.dll
+S:\Projektek\Encrypt-Decrypt\obj\Debug\netcoreapp3.1\Encrypt-Decrypt.pdb
+S:\Projektek\Encrypt-Decrypt\obj\Debug\netcoreapp3.1\Encrypt-Decrypt.genruntimeconfig.cache
+S:\Projektek\Encrypt-Decrypt\bin\Debug\netcoreapp3.1\Encrypt-Decrypt.dll.config
